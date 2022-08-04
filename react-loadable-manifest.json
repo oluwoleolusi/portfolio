@@ -1,0 +1,80 @@
+{
+  "index.js -> ../components/GithubProfileCard": {
+    "id": 3546,
+    "files": [
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/546.b224ec5a08714ed3.js"
+    ]
+  },
+  "index.js -> ../components/Navigation": {
+    "id": 9106,
+    "files": [
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/12.6ec784701574d789.js",
+      "static/chunks/106.fee264c6c5b0be48.js"
+    ]
+  },
+  "index.js -> ../containers/Education": {
+    "id": 5184,
+    "files": [
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/184.995aa77eaf2d44c3.js"
+    ]
+  },
+  "index.js -> ../containers/Experience": {
+    "id": 7280,
+    "files": [
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/280.650270bdef3f89f0.js"
+    ]
+  },
+  "index.js -> ../containers/Feedbacks": {
+    "id": 842,
+    "files": [
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/842.d20781d7ad9de427.js"
+    ]
+  },
+  "index.js -> ../containers/Greetings": {
+    "id": 9686,
+    "files": [
+      "static/chunks/ea88be26.cdb77bd223491e40.js",
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/464.5d32f6197a1ea75a.js",
+      "static/chunks/686.0b337657924f0ab5.js"
+    ]
+  },
+  "index.js -> ../containers/Proficiency": {
+    "id": 3859,
+    "files": [
+      "static/chunks/ea88be26.cdb77bd223491e40.js",
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/464.5d32f6197a1ea75a.js",
+      "static/chunks/859.bd8e9f0e60cfc141.js"
+    ]
+  },
+  "index.js -> ../containers/Projects": {
+    "id": 9295,
+    "files": [
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/295.a740d6cb22fc53f0.js"
+    ]
+  },
+  "index.js -> ../containers/Skills": {
+    "id": 7660,
+    "files": [
+      "static/chunks/ea88be26.cdb77bd223491e40.js",
+      "static/chunks/624.f7259e8f55482bcf.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/464.5d32f6197a1ea75a.js",
+      "static/chunks/12.6ec784701574d789.js",
+      "static/chunks/784.27abb261e277105a.js",
+      "static/chunks/660.e082b68b0410aecf.js"
+    ]
+  }
+}

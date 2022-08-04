@@ -1,12 +1,14 @@
 {
+	"homepage": "https://oluwoleolusi.github.io/portfolio",
 	"name": "developer-portfolio",
 	"version": "1.0.0",
-	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
+	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software devnpm ru",
 	"main": "index.js",
 	"repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
 	"author": "Hanzla Tauqeer",
 	"license": "MIT",
 	"scripts": {
+		"deploy": "gh-pages -d build",
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
@@ -38,6 +40,7 @@
 	},
 	"devDependencies": {
 		"eslint": "7.32.0",
-		"eslint-config-next": "11.1.2"
+		"eslint-config-next": "11.1.2",
+		"gh-pages": "^4.0.0"
 	}
 }

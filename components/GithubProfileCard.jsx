@@ -22,7 +22,7 @@ const GithubProfileCard = ({ prof }) => {
 						<Col lg="8" className="order-lg-1">
 							<h2 className="text-white">Reach Out!</h2>
 							<p className="lead text-white mt-3">
-								If you'd like to discuss a project, or just say hello, you can reach me through these mediums:
+								If you would like to discuss a project, or just say hello, you can reach me through these mediums:
 								<br></br><br></br>
 								<b>Email:</b> oluwole.olusi@gmail.com<br></br>
 								<b>Phone:</b> +2348072275092
